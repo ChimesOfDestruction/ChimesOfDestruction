@@ -6,3 +6,5 @@ I am interested in malware dev.
 Languages:  VB.net C# VB6  
 IDE: Visual Studio  
 Projects: njRAT 0.7d Platinum Edition  
+
+Want to contact me? Open an issue on any repository.  
