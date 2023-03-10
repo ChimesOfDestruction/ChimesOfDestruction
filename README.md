@@ -8,3 +8,5 @@ IDE: Visual Studio
 Projects: njRAT 0.7d Platinum Edition  
 
 Want to contact me? Open an issue on any repository.  
+
+![](https://komarev.com/ghpvc/?ChimesOfDestruction&color=red)
