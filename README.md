@@ -9,4 +9,4 @@ Projects: njRAT 0.7d Platinum Edition
 
 Want to contact me? Open an issue on any repository.  
 
-[![](https://komarev.com/ghpvc/?ChimesOfDestruction&color=red)](https://count.getloli.com/get/@ChimesOfDestruction?theme=moebooru)
+![](https://count.getloli.com/get/@ChimesOfDestruction?theme=moebooru)
