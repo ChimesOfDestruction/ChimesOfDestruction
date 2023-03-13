@@ -11,4 +11,4 @@ Want to contact me? Open an issue on any repository.
 
 ## Visitor Counter:
 
-![](https://count.getloli.com/get/@ChimesOfDestruction?theme=moebooru)
+![Counter](https://count.getloli.com/get/@ChimesOfDestruction?theme=moebooru)
